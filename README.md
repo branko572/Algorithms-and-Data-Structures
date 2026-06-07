@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-A collection of hard and interesting tasks made with Java in IntelliJ
+Java implementations of core data structures — singly & doubly linked lists, stacks, queues, hash tables, and binary trees
